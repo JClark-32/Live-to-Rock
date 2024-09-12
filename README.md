@@ -1,4 +1,4 @@
-# CapstoneProjectTemplate /* Replace this line with the title of your project */
+# Live to Rock
 
 ## **Summary**
 
@@ -6,9 +6,10 @@ Put a very high-level summary of the project.
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Cassidy Alcorn
+- Jacob Clark
+- Kc Weaver
+- Traigh Scott
 
 ## **Client Partner Information**
 
