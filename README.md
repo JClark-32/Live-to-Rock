@@ -14,11 +14,10 @@ Put a very high-level summary of the project.
 ## **Client Partner Information**
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
+Live to Rock
 
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- Michael Crisci
 
 ## **Links**
 
