@@ -1,5 +1,8 @@
 # Discovery
 
+## Participants
+Traigh Scott, Cassidy Alcorn, Jacob Clark, Kc Weaver
+
 ## Minutes
 This file contains the information about the meetings with our client.
 
