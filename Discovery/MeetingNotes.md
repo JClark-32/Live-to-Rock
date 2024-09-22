@@ -1,0 +1,62 @@
+# Meeting Notes
+- Client is letting us take the lead.
+    - He's just relaying:
+        - Type of business
+        - Goals
+        - Website
+- Introductions
+    - Client went to BSU, likes guitar
+    - Non-profit pet project
+- About the product
+    - Upload videos / share stuff
+    - Reddit-like forum
+    - Podcast section
+    - Resource place to navigate challenges
+    - Community
+    - Userbase is up to us
+        - BlueHart
+        - SQL
+        - He can give us access to existing stuff
+    - Get calendar back
+    - Problems with scams
+    - Copyright stuff needed
+    - Sell shirts
+    - Keep appearance as is as much as possible
+        - Like and comment system, no dislikes 
+        - Some kind of filter to precent mean speech
+            - Able to add/remove words/phrases
+    - High Priority is making it SUPER non-tech friendly so Client can do everything he needs to do easily
+        - Plus internally
+    - YouTube API to host videos
+        - Own likes and comments on the website outside of the api
+    - How to put ads up on website
+        - Discover ads, for raising funds. Sponsors, etc.
+        - How to filter ads
+    - Ultimate end goal is concert performed live on website (how)
+    - Mixed reviews on website
+        - Elementor (Mobile conversion soft)
+        - Some pages are weird
+    - Like reddit, but easy + simple
+        - Links
+    - Comments are _super_ important!
+    - Smooth + fast website
+- Blogs 
+    - Anyone, but view and approve?
+    - Less priority for everyone
+    - Start with Mike
+- Calendar
+    - Get calendar added back
+    - People able to submit calendar stuff
+        - Approve email first
+    - Anyone should be ablee to look at any of the pages but any other interaction needs registration
+    - Name, email, captcha (captcha+)
+        - Security
+        - Talk to (Cass's friend) about site bots
+- Podcasts
+    - Soundcloud?
+    - Spotify?
+    - Whichever is easiest
+- Look at Everything from the leens of Not Tech Savvy!
+- Big passion project of mike's
+    - Okay to use mike's number to contact!
+    - Time to reach out even 3am 
