@@ -15,11 +15,11 @@ classDiagram
   LifePerformances : String[] Comments
   LifePerformances : int Likes
 
-  Groupies <|-- Forumn Posts
-  Forumn Posts : int PostID
-  Forumn Posts : String message
-  Forumn Posts <-- User
-  Forumn Posts : int Likes
+  Groupies <|-- ForumnPost
+  ForumnPost : int PostID
+  ForumnPost : String message
+  ForumnPost <-- User
+  ForumnPost : int Likes
 
   JamSession
   JamSession <-- BlogPost
@@ -46,5 +46,10 @@ classDiagram
 
   User: String Username
   User: String Password
+  User: String Status
+
+  User <-- Admin Panel
+  AdminPanel
+  AdminPanel
 ```
 
