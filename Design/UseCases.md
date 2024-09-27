@@ -1,0 +1,64 @@
+# Actors
+- Client
+  - The client is an administrator and the website owner. The client will have access to all aspects of the website.
+- Admins
+  - The admins are the site administrators. Administrators have access to administrator actions which may include approving requests, but they will not have access to any sensitive info.
+- Users
+  - The users are anyone using or viewing the site who have signed up and hold an account.
+- Guests
+  - The guests are site viewers who are unable to interact with the site's social features.
+- Advertisers / sponsors
+  - The advertisers / sponsors include ads listed on the site.
+# Use Cases
+- BR1 UC1 Forums: Post in the discussion forum "groupies"
+  - Explanation: This is one of the uses cases there is a section on the site, called "groupies", where the client wishes people to be able to discuss music-related topics in a discussion forum. Users hsould be able to make posts in this section of the website.
+  - Actors: Users
+  - Flow: User opens forum, clicks create a post, writes post, posts post
+  - BR1 UC1.5 Forums: Comment in the discussion forum
+    - Explanation: Users should be able to comment under other user's orum posts as well as add reactions in order to foster commnuity.
+    - Actors: Users
+    - Flow: User sees post, user reacts and/or user submits comment
+- BR1 UC2 Calendar: Add events on site calendar
+  - Explanation: This is one of the use cases because there is a place on the website for a calendar that the client would like to use in order to display events. These events can be added by admins, or, maybe in later iterations, requested by users and approved by admins.
+  - Actors: Admins, Users
+  - Flow: Admin fills out form with event details, and form details are converted to calendar event. (User fills out form with event details, form is sent to admin for approval, if approved, form details are converted to calendar event.)
+- BR1 UC3 Blog: Make blog posts
+  - Explanation: The client wants to be able to make blog posts on the website, so we need to add that functionally
+  - Actors: Admins, Users
+  - Flow: Enter post creation page, fill in post information, schedule post, allow users to interact (comment, like)
+- BR1 UC4 Videos: Upload music videos to site
+  - Explanation: Client wants to be able to have people link their videos to the site and to have other users be able to comment on them.
+  - Actors: Admins, Users
+  - Flow: User upload to YouTube, fill out form, post (or get approval to post), use YouTube API to link video to site, allow commenting, likes, etc.
+  - BR1 UC4.5 Videos: Comment on uploaded videos
+    - Explanation: Client wants site users to be able to react to and post comments under uploaded videos directly onto the site instead of on YouTube (for example)
+    - Actors: Users
+    - Flow: See video, react to video and/or comment under video
+- BR1 UC5 Revenue: Generate revenue for website from ads/merch
+  - Explanation: Client would like to make enough money for the website from ads and merch in order to keep operations running as inexpensively as possible. This will include allowing advertisers on site, selling merch, displaying sponsors, etc.
+  - Actors: Advertisers/sponsors
+  - Flow: Ads appears, users see, Merch available, users buy, Sponsors present for money
+- BR1 UC6 Live Performance: View live streamed content
+  - Explanation: Client would like site users and viewers to be able to watch live streamed content on the website itself.
+  - Actors: Users, Guests
+  - Flow: Load livestream tab, begin livestream, watch
+- BR1 UC7 Admin Functionality: Modify modules
+  - Explanation: Client would like to be able to easily manage the website without much understanding of the tech-y side of things.
+  - Actors: Michael
+  - Flow: UI that allows client to change things as he needs.
+- BR1 UC8 Mobile Support: Viewable on mobile
+  - Explanation: Client has received mixed reviews about the site’s functionality on mobile and small screens and would like things to function better.
+  - Actors: Any/all viewers
+  - Flow: When viewing website, site is readable on mobile
+- BR1 UC9 Account Creation: Create accounts
+  - Explanation: In order for there to actually be a community on site, there needs to be a secure way for potential users to create an account on site. 
+  - Actors: Guests
+  - Flow: Guests enter account information and go through some sort of screening to make an account
+- BR1 UC10 Comment Filtering: Filter comments
+  - Explanation: In order to prevent malicious activity like cross-site scripting and SQL injections, and in order to keep comment sections civil, a filter will be put in place to prevent “hacking” and to disallow certain words, phrases, characters, etc.
+  - Actors: Users
+  - Flow: When comment is submitted, comment is reviewed by algorithm/filter etc. and posted only if it passes review.
+- BR1 UC11 Useability: Navigate easily
+  - Explanation: Site should be easy and simple to navigate so that people spend more time being a community and less time trying to figure out how the Internet works
+  - Actors: Users, Guests
+  - Flow: Open site, wow so easy
