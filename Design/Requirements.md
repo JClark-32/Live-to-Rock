@@ -21,6 +21,6 @@
 - UC2 F20: Verified Users can request things to be put on the Tour Schedule, Liner Notes, Backstage Pass, and Jam Session (Low Priority)
 
 # Non-functional:
-- UC7 F1: Modifiability, able to easily maintain, change, enhance and restructure (High Priority)
-- UC10 F2: Protection against scammers, spammers, and hackers (High Priority)
-- UC11 F3: User usability, easy to learn/use system (Medium Priority)
+- UC7 NF1: Modifiability, able to easily maintain, change, enhance and restructure (High Priority)
+- UC10 NF2: Protection against scammers, spammers, and hackers (High Priority)
+- UC11 NF3: User usability, easy to learn/use system (Medium Priority)
