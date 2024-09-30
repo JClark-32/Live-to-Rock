@@ -9,13 +9,20 @@ classDiagram
   Home -- MerchPage
   Home -- PlugIn
 
+  Home : Pages[] Pages
+
   LifePerformances 
   LifePerformances <-- Youtube Video
-  Youtube Video : Youtube API
+  LifePerformances : YoutubeVideo[] Videos
+
+  YoutubeVideo : Video YoutubeVideo
   LifePerformances : String[] Comments
   LifePerformances : int Likes
 
   Groupies <|-- ForumnPost
+  Groupies : ForumnPost[] ForumnPosts
+
+
   ForumnPost : int PostID
   ForumnPost : String message
   ForumnPost <-- User
@@ -23,15 +30,19 @@ classDiagram
 
   JamSession
   JamSession <-- BlogPost
+  JamSession : BlogPost[] BlogPosts
 
   BlogPost : int PostID
   BlogPost : String Message
   BlogPost <-- User
 
   BackStagePass <-- Podcast
-  Podcast : Podcast API
+  BackStagePass : Podcast[] Podcasts
+
+  Podcast : Podcast Podcast
 
   Calendar <-- Event
+  Calendar : Event[] Events
 
   Event : int EventID
   Event : Date EventDate
@@ -39,7 +50,7 @@ classDiagram
 
   Event <-- User
 
-  MerchPage : Merch API
+  MerchPage : Merch[] Merch
 
   PlugIn : String Email
   PlugIn <-- User
