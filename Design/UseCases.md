@@ -14,8 +14,8 @@
   - Explanation: This is one of the uses cases there is a section on the site, called "groupies", where the client wishes people to be able to discuss music-related topics in a discussion forum. Users hsould be able to make posts in this section of the website.
   - Actors: Users
   - Flow: User opens forum, clicks create a post, writes post, posts post
-  - BR1 UC1.5 Forums: Comment in the discussion forum
-    - Explanation: Users should be able to comment under other user's orum posts as well as add reactions in order to foster commnuity.
+  - BR1 UC1.5 Forums: Interact in the discussion forum
+    - Explanation: Users should be able to comment under other user's forum posts as well as add reactions in order to foster commnuity.
     - Actors: Users
     - Flow: User sees post, user reacts and/or user submits comment
 - BR1 UC2 Calendar: Add events on site calendar
