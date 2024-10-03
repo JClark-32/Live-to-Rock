@@ -20,38 +20,50 @@ Loosely grouped by priorty
     - Medium Priority
 - UC7 F9: Admins can post to Liner Notes 
     - Medium Priority
-- UC7 F10: Admins can approve or deny Verified User requests 
+- UC3 F10: Blog posts can be created in Jam Session
     - Medium Priority
-- UC1.5 F11: Verified Users can post on Groupies 
+- UC3 F11: Blog posts can be posted in Jam Session
     - Medium Priority
-- UC1.5 F12: Verified Users can post on Life Performances
+- UC2 F12: Tour Schedule will have events listed on it 
     - Medium Priority
-- UC1.5 F13: Verified Users can post on comments 
+- UC2 F13: Tour Schedule events will have displayed descriptions
     - Medium Priority
-- UC1.5 F14: Verified Users can love posts on website 
+- UC1 F14: Verified Users can post on Groupies 
     - Medium Priority
-- UC1.5 F15: Verified Users can like posts on website 
+- UC4 F15: Verified Users can post on Life Performances
     - Medium Priority
-- UC10 F16: There is a filter for comments and Groupies  
+- UC4 F16: Verified Users can post on comments 
     - Medium Priority
-- UC5 F17: Print on Demand Merch page 
+- UC1 F17: Verified Users can love posts on website 
+    - Medium Priority
+- UC1 F18: Verified Users can like posts on website 
+    - Medium Priority
+- UC10 F19: There is a filter for comments  
+    - Medium Priority
+- UC10 F20: There is a filter for Groupies  
+    - Medium Priority
+- UC5 F21: Print on Demand Merch page 
     - Medium Priority
 ## Low Priority
-- UC5 F18: Sponsor page / advertisements / fund raisers 
+- UC5 F22: Sponsor page / advertisements / fund raisers 
     - Low Priority
-- UC5 F19: Filter ads 
+- UC5 F23: Filter ads 
     - Low Priority
-- UC8 F20: Mobile support 
+- UC8 F24: Improve Mobile support 
     - Low Priority
-- UC6 F21: Live Concert support 
+- UC6 F25: Live Concert can be posted to the website via API
     - Low Priority
-- UC2 F22: Verified Users can request things to be put on the Tour Schedule
+- UC6 F26: Live Concert can be viewed and watched by users
     - Low Priority
-- UC2 F23: Verified Users can request things to be put on the Liner Notes 
+- UC7 F27: Admins can approve or deny Verified User requests 
     - Low Priority
-- UC2 F24: Verified Users can request things to be put on the Backstage Pass 
+- UC2 F28: Verified Users can request things to be put on the Tour Schedule
     - Low Priority
-- UC2 F25: Verified Users can request things to be put on the Lam Session 
+- UC7 F29: Verified Users can request things to be put on the Liner Notes 
+    - Low Priority
+- UC12 F30: Verified Users can request things to be put on the Backstage Pass 
+    - Low Priority
+- UC3 F31: Verified Users can request things to be put on the Jam Session 
     - Low Priority
 
 # Non-functional:
