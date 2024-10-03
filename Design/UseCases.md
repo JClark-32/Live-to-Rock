@@ -62,3 +62,7 @@
   - Explanation: Site should be easy and simple to navigate so that people spend more time being a community and less time trying to figure out how the Internet works
   - Actors: Users, Guests
   - Flow: Open site, wow so easy
+- BR1 UC12 Podcasts: Upload podcasts
+  - Explanation: The client would like a section of the site dedicated to a podcast, which will be uploaded on either Spotify or Soundcloud and then imported to the site via an API to allow the site viewers to engage with said podcast.
+  - Actors: Users, GUests
+  - Flow: Podcast information scanned -> Podcast API called -> Podcast displayed
