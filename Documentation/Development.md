@@ -22,3 +22,9 @@
 - Then you'll open up your environment variables and find your "path" and click edit.
 
 - On the edit screen, you'll select a blank spot and paste the php path, then you can test in your command line that it installed using php --version.
+
+- Once that has been complete, you will need to install [Visual Studio Code](https://code.visualstudio.com).
+
+- Inside VSCode, you will need to open File > Preferences > Settings > Extensions > PHP and open the JSON settings document and paste your php path in the executable string.
+
+- Once you run a php program, it will have you install a debugger and then you will need to repeat the previous step but for the debugger string.
