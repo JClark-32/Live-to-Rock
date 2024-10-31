@@ -13,3 +13,12 @@
 - On the areas of the editor, the "Pages" section will let us see all the pages of the website and allow us to edit them.
 
 - There is an area on the main page of the editor called "Staging" which allows us to make a feature branch for the website to build on.
+
+## Installing PHP
+- To get started you want to head to [PHP](https://windows.php.net/download#php-8.3) and download PHP 8.3.13 Thread Safe.
+
+- After that downloads, you will extract it and move it into your C drive. Then you'll rename the file so it only has "php-8.3.13" and copy its path.
+
+- Then you'll open up your environment variables and find your "path" and click edit.
+
+- On the edit screen, you'll select a blank spot and paste the php path, then you can test in your command line that it installed using php --version.
