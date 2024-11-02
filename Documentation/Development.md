@@ -7,6 +7,7 @@
     - Time.ly handles the calendar widget on the website.
     - User Registration handles the user's ability to create an account on the server.
     - Akismet handles the anti-spam protection for the website.
+    - Forums handles the forums and posts
 
 - There is also the User section, this will allow us to edit the user's roles and access to different parts of the site.
 
@@ -14,17 +15,23 @@
 
 - There is an area on the main page of the editor called "Staging" which allows us to make a feature branch for the website to build on.
 
-## Installing PHP
-- To get started you want to head to [PHP](https://windows.php.net/download#php-8.3) and download PHP 8.3.13 Thread Safe.
+## Installing WP, PHP, and MySQL
+- First step that covers most of the process, install [Apache](https://www.apachefriends.org/) with the default settings.
 
-- After that downloads, you will extract it and move it into your C drive. Then you'll rename the file so it only has "php-8.3.13" and copy its path.
+- After it installs, open the control panel and start Apache and MySQL. (If you have a past version of MySQL, you may have to change the ports to access 3307 or uninstall the old version)
 
-- Then you'll open up your environment variables and find your "path" and click edit.
+- Now that those are started, click Admin next to MySQL and it will load the database on your local host.
 
-- On the edit screen, you'll select a blank spot and paste the php path, then you can test in your command line that it installed using php --version.
+- In here, you're going to create a new database and can be named anything for example "mywordpress."
 
-- Once that has been complete, you will need to install [Visual Studio Code](https://code.visualstudio.com).
+- Then, you will have to download [WordPress](https://wordpress.org/download/) and extract the files, remove one of the compounded folders (there should be 1 file with everything directly inside it), and rename the file "mywordpress."
 
-- Inside VSCode, you will need to open File > Preferences > Settings > Extensions > PHP and open the JSON settings document and paste your php path in the executable string.
+- You will want to move the "mywordpress" file into your C drive > xampp > htdocs.
 
-- Once you run a php program, it will have you install a debugger and then you will need to repeat the previous step but for the debugger string.
+- Then open a new tab in your browser and go to "localhost/mywordpress" then go through the steps of installing WordPress.
+    - Select language
+    - Click "Let's go"
+    - Fill database name "mywordpress", username, and password
+    - Run installation
+
+- Then make a site title, input another username (can be same or different), same with password, your email, and install.
