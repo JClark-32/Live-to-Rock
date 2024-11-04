@@ -35,3 +35,12 @@
     - Run installation
 
 - Then make a site title, input another username (can be same or different), same with password, your email, and install.
+
+## Adding the plugin to your website
+- Take the plugin file and copy it onto your clipboard.
+
+- Open your website folder: C drive > xampp > htdocs > "mywordpress" > wp-content > plugins > paste plugin file here.
+
+- Now go to your local website and go to the plugin tab.
+
+- Activate the plugin that you just added.
