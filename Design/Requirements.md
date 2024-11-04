@@ -44,26 +44,28 @@ Loosely grouped by priorty
     - Medium Priority
 - UC5 F21: Print on Demand Merch page 
     - Medium Priority
+- UC4 F22: Admins can accept requests to post a youtube video in Life Performance
+    - Medium Priority     
 ## Low Priority
-- UC5 F22: Sponsor page / advertisements / fund raisers 
+- UC5 F23: Sponsor page / advertisements / fund raisers 
     - Low Priority
-- UC5 F23: Filter ads 
+- UC5 F24: Filter ads 
     - Low Priority
-- UC8 F24: Improve Mobile support 
+- UC8 F25: Improve Mobile support 
     - Low Priority
-- UC6 F25: Live Concert can be posted to the website via API
+- UC6 F26: Live Concert can be posted to the website via API
     - Low Priority
-- UC6 F26: Live Concert can be viewed and watched by users
+- UC6 F27: Live Concert can be viewed and watched by users
     - Low Priority
-- UC7 F27: Admins can approve or deny Verified User requests 
+- UC7 F28: Admins can approve or deny Verified User requests 
     - Low Priority
-- UC2 F28: Verified Users can request things to be put on the Tour Schedule
+- UC2 F29: Verified Users can request things to be put on the Tour Schedule
     - Low Priority
-- UC7 F29: Verified Users can request things to be put on the Liner Notes 
+- UC7 F30: Verified Users can request things to be put on the Liner Notes 
     - Low Priority
-- UC12 F30: Verified Users can request things to be put on the Backstage Pass 
+- UC12 F31: Verified Users can request things to be put on the Backstage Pass 
     - Low Priority
-- UC3 F31: Verified Users can request things to be put on the Jam Session 
+- UC3 F32: Verified Users can request things to be put on the Jam Session 
     - Low Priority
 
 # Non-functional:
