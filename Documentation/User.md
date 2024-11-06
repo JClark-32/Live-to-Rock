@@ -61,11 +61,11 @@ To Submit a Video:
 
 1.  Navigate to the "Life Performances" page by clicking the ![LifePerformances](/Documentation/ManualPics/LifePerformances.png) button located near the left of the "Navigation Bar" ![NavBar](/Documentation/ManualPics/Navigation.png) . 
     
-2.  Click on the "Submit Video" ____ field.
+2.  Click on the "Submit Video" IMAGEHERE field.
 
 3.  Paste the video you would like to submit for approval. 
 
-4.  Click the "Submit" _____ Button.
+4.  Click the "Submit" IMAGEHERE Button.
 
 5.  Await administrator approval
 
