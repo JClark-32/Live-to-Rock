@@ -65,7 +65,7 @@ Summary: This page allows visitors to submit
 
 To Submit a Video:
 
-1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="700"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> . 
+1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> . 
     
 2.  Click on the "Submit Video" IMAGEHERE field.
 
@@ -80,9 +80,9 @@ To Submit a Video:
 
 To View a Video:
 
-1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="700"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> .
+1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> .
 
-2.  Hover over any "Video" <img src="/Documentation/ManualPics/Video.png" width="700"> that you would like to view and press the "Play" button <img src="/Documentation/ManualPics/Play.png" width="700"> .
+2.  Hover over any "Video" <img src="/Documentation/ManualPics/Video.png" width="200"> that you would like to view and press the "Play" button <img src="/Documentation/ManualPics/Play.png" width="100"> .
 
 3.  You may manipulate playback features such as "Closed Captions" <img src="/Documentation/ManualPics/ClosedCaptions.png" width="700"> through the "Youtube Bar" <img src="/Documentation/ManualPics/YoutubeBar.png" width="700"> located at the bottom the video.
 
