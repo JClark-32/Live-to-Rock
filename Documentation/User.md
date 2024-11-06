@@ -45,7 +45,7 @@ To Create an Account:
 
 4.  Decide on a display name and enter it into the "Display Name" <img src="/Documentation/ManualPics/DisplayName.png" width="300"> field.
 
-5.  Complete the "CAPTCHA" <img src="/Documentation/ManualPics/CAPTCHA.png" width="200"> by ticking the box <img src="/Documentation/ManualPics/CaptchaBox.png" width="200"> on the left.
+5.  Complete the "CAPTCHA" <img src="/Documentation/ManualPics/Captcha.png" width="200"> by ticking the box <img src="/Documentation/ManualPics/captchabox.png" width="200"> on the left.
 
 6.  Click "Register" <img src="/Documentation/ManualPics/Register.png" width="200"> to finish creating your registered account. 
 
