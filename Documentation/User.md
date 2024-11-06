@@ -9,11 +9,11 @@ Website User Manual
 How-To:
 
 
-1.  To return to the "Home Page" at any time, click the "Home" ![Captcha](Captcha.png) button at the top left of the screen.
+1.  To return to the "Home Page" at any time, click the "Home" ![Home](/Documentation/ManualPics/Home.png) button at the top left of the screen.
     
-2.  To traverse to other pages, click the name of the desired destination within the "Navigation Bar" ________.
+2.  To traverse to other pages, click the name of the desired destination within the "Navigation Bar" ![NavBar](/Documentation/ManualPics/Navigation.png).
     
-3.  To navigate within pages, you may use the "Scroll Bar" _____ located on the right.
+3.  To navigate within pages, you may use the "Scroll Bar" ![ScrollBar](/Documentation/ManualPics/ScrollBar.png) located on the right.
     
 
 ----------
@@ -31,17 +31,17 @@ Summary: This page allows visitors of the site to create an account that they ca
 
 To Create an Account:
 
-1.  Navigate to the "Plug In" page by clicking the _____ button located at the right of the "Navigation Bar" _____ . 
+1.  Navigate to the "Plug In" page by clicking the ![Plug In](/Documentation/ManualPics/Plug In.png) button located at the right of the "Navigation Bar" ![NavBar](/Documentation/ManualPics/Navigation.png) . 
     
-2.  Enter your first name in the "First Name" field _____ and last name in the "Last Name" field _____ .
+2.  Enter your first name in the "First Name" field ![FirstName](/Documentation/ManualPics/FirstName.png) and last name in the "Last Name" field ![LastName](/Documentation/ManualPics/LastName.png) .
 
-3.  Enter your email in the "User Email" field ____ and your chosen password in the "User Password" field ____ .
+3.  Enter your email in the "User Email" field ![UserEmail](/Documentation/ManualPics/UserEmail.png) and your chosen password in the "User Password" field ![NavBar](/Documentation/ManualPics/UserPassword.png) .
 
-4.  Decide on a display name and enter it into the "Display Name" ____ field.
+4.  Decide on a display name and enter it into the "Display Name" ![DisplayName](/Documentation/ManualPics/DisplayName.png) field.
 
-5.  Complete the "CAPTCHA" _____ by ticking the box ____ on the left.
+5.  Complete the "CAPTCHA" ![Captcha](/Documentation/ManualPics/Captcha.png) by ticking the box ![CaptchaBox](/Documentation/ManualPics/captchabox.png) on the left.
 
-6.  Click "Register" _____ to finish creating your registered account. 
+6.  Click "Register" ![Register](/Documentation/ManualPics/Register.png) to finish creating your registered account. 
 
 ----------
 
@@ -59,7 +59,7 @@ Summary: This page allows visitors to submit
 
 To Submit a Video:
 
-1.  Navigate to the "Life Performances" page by clicking the _____ button located near the left of the "Navigation Bar" _____ . 
+1.  Navigate to the "Life Performances" page by clicking the ![LifePerformances](/Documentation/ManualPics/LifePerformances.png) button located near the left of the "Navigation Bar" ![NavBar](/Documentation/ManualPics/Navigation.png) . 
     
 2.  Click on the "Submit Video" ____ field.
 
@@ -74,15 +74,15 @@ To Submit a Video:
 
 To View a Video:
 
-1.  Navigate to the "Life Performances" page by clicking the _____ button located near the left of the "Navigation Bar" _____ .
+1.  Navigate to the "Life Performances" page by clicking the ![LifePerformances](/Documentation/ManualPics/LifePerformances.png) button located near the left of the "Navigation Bar" ![NavBar](/Documentation/ManualPics/Navigation.png) .
 
-2.  Hover over any "Video" _____ that you would like to view and press the "Play" button _____ .
+2.  Hover over any "Video" ![Video](/Documentation/ManualPics/Video.png) that you would like to view and press the "Play" button ![Play](/Documentation/ManualPics/Play.png) .
 
-3.  You may manipulate playback features such as "Closed Captions" ____ through the "Youtube Bar" ____ located at the bottom the video.
+3.  You may manipulate playback features such as "Closed Captions" ![ClosedCaptions](/Documentation/ManualPics/ClosedCaptions.png) through the "Youtube Bar" ![Play](/Documentation/ManualPics/Play.png) located at the bottom the video.
 
-4.  You may navigate through the video with the "Red Bar" ____ at the top of the "Youtube Bar" _____ .
+4.  You may navigate through the video with the "Red Bar" ![RedBar](/Documentation/ManualPics/RedBar.png) at the top of the "Youtube Bar" ![YoutubeBar](/Documentation/ManualPics/YoutubeBar.png) .
 
-5.  Click the "Pause" _____ button to stop playback. 
+5.  Click the "Pause" ![Pause](/Documentation/ManualPics/Pause.png) button to stop playback. 
 
     
 
