@@ -1,7 +1,7 @@
 ## Deploying a Plug In
 
 #### Prerequisites 
-What needs to be installed before starting:
+What needs to be installed before starting: Apache Web Server, MySQL, VSCODE
 
 ##### Your local machine. 
 1.  Install [Apache](https://www.apachefriends.org/) with the default settings.
@@ -23,6 +23,8 @@ What needs to be installed before starting:
     - Run installation
 
 8. Make a site title, input another username (can be same or different), same with password, your email, and install.
+
+9. Install VSCODE or your chosen IDE to write the plug in code
 
 ### Testing
 
