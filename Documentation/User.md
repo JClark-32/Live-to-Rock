@@ -35,15 +35,15 @@ To Create an Account:
 
 1.  Navigate to the "Plug In" page by clicking the <img src="/Documentation/ManualPics/Plug In.png" width="50"> button located at the right of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> . 
     
-2.  Enter your first name in the "First Name" field <img src="/Documentation/ManualPics/FirstName.png" width="200">
+2.  Enter your first name in the "First Name" field <img src="/Documentation/ManualPics/FirstName.png" width="300">
 
-3.  Enter last name in the "Last Name" field <img src="/Documentation/ManualPics/LastName.png" width="200"> .
+3.  Enter last name in the "Last Name" field <img src="/Documentation/ManualPics/LastName.png" width="300"> .
 
-4.  Enter your email in the "User Email" field <img src="/Documentation/ManualPics/UserEmail.png" width="400">
+4.  Enter your email in the "User Email" field <img src="/Documentation/ManualPics/UserEmail.png" width="300">
 
-5.  Enter your chosen password in the "User Password" field <img src="/Documentation/ManualPics/UserPassword.png" width="200"> .
+5.  Enter your chosen password in the "User Password" field <img src="/Documentation/ManualPics/UserPassword.png" width="300"> .
 
-4.  Decide on a display name and enter it into the "Display Name" <img src="/Documentation/ManualPics/DisplayName.png" width="200"> field.
+4.  Decide on a display name and enter it into the "Display Name" <img src="/Documentation/ManualPics/DisplayName.png" width="300"> field.
 
 5.  Complete the "CAPTCHA" <img src="/Documentation/ManualPics/CAPTCHA.png" width="200"> by ticking the box <img src="/Documentation/ManualPics/CaptchaBox.png" width="200"> on the left.
 
