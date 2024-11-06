@@ -9,7 +9,7 @@ Website User Manual
 How-To:
 
 
-1.  To return to the "Home Page" at any time, click the "Home" _____ button at the top left of the screen.
+1.  To return to the "Home Page" at any time, click the "Home" ![Captcha](Captcha.png) button at the top left of the screen.
     
 2.  To traverse to other pages, click the name of the desired destination within the "Navigation Bar" ________.
     
