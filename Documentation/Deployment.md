@@ -24,13 +24,13 @@ What needs to be installed before starting:
 
 8. Make a site title, input another username (can be same or different), same with password, your email, and install.
 
-#### Testing
+### Testing
 
 - Errors will occur on test page OR inside the test website's inspect element.
 
 - Syntax and method errors are most common, and critical points of vulnerability that can cause errors that crash the page.
-- 
 
+How-To:
 1. Go to your MyWordPress
 
 2. Open wp-content
