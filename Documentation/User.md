@@ -1,63 +1,87 @@
-Shuttle Bus Log Collection System
-
-User Manual
+Live To Rock
+Website User Manual
 
 ----------
 
-# Dashboard
+# Home
 
 ## Navigation
 
 How-To:
 
-  
 
-1.  Click on the ![](https://lh5.googleusercontent.com/C3p2diYGT60P7Rt_Q7nUv0VoXheuEXP78cIRUVRpd38hzWmEdsIZkS8iiWA-7SB8esfj6hE45--hgmXPtUemFa5CYEo2mN7taWClzTU7efMPGwTvz5B-b8_gF7QYhwAJrgpuS9Tv) button in the top left corner.
+1.  To return to the "Home Page" at any time, click the "Home" _____ button at the top left of the screen.
     
-2.  If you would like to manage data, click on “Manage Data”, if you would like to view a report, click on “View Reports”.
+2.  To traverse to other pages, click the name of the desired destination within the "Navigation Bar" ________.
     
-3.  After clicking these, the sub-menus will open.
-    
-4.  Click on the desired sub-menu.
+3.  To navigate within pages, you may use the "Scroll Bar" _____ located on the right.
     
 
   
 
-## Data Management
+## To Create an Account
 
-### Entries:
+### Plug In Page:
 
-Summary: This page allows you to view the entries that have been pushed to the database in a given day. It also allows you to edit and delete entries that may not be accurate. Each entry has 7 pieces of data. They are:
+Summary: This page allows visitors of the site to create an account that they can later return to. 
 
--   Boarded: This is how many people got on the bus.
+-   Users: Those that may use the website freely, but do not have permission to submit post requests. 
     
--   Stop: This is the stop that the driver was at for this entry.
+-   Registered Users: Those that may interact with full site functionality, and may submit post requests. 
+
+To Create an Account:
+
+1.  Navigate to the "Plug In" page by clicking the _____ button located at the right of the "Navigation Bar" _____ . 
     
--   Time: This is the date and time that the entry was made by the driver.
-    
--   Date: This is the date of when the data was able to reach the server. (It is important to note that the date from time, and the date from Date may be different. This can be caused if there was an issue with an internet connection and the data was synced on a different day than it was submitted.)
-    
--   Loop: This is the loop that the driver was on for this entry.
-    
--   Driver: This is the driver for this entry.
-    
--   Left Behind: This is how many people were left behind at the stop.
-    
+2.  Enter your first name in the "First Name" field _____ and last name in the "Last Name" field _____ .
+
+3.  Enter your email in the "User Email" field ____ and your chosen password in the "User Password" field ____ .
+
+4.  Decide on a display name and enter it into the "Display Name" ____ field.
+
+5.  Complete the "CAPTCHA" _____ by ticking the box ____ on the left.
+
+6.  Click "Register" _____ to finish creating your registered account. 
 
   
 
-How To:
+## To Submit a Youtube Video
+ 
+### Life Performances Page:
 
-#### To view the entry data:
+Summary: This page allows visitors to submit
 
-1.  Click on the “calendar” symbol in the text box above the boxes that show the hour breakdown.
+-   Submission: Registered users may submit a request to post a YouTube video. This request may then be approved by an admin.
     
-2.  Select the date that you would like to see the report for.
+-   Viewing: Any site user may view approved videos and interact with YouTube functionality.
+  
+
+To Submit a Video:
+
+1.  Navigate to the "Life Performances" page by clicking the _____ button located near the left of the "Navigation Bar" _____ . 
     
-3.  Select the loop that you would like to see the report for from the drop down.
-    
-4.  Click submit.
-    
-5.  It should now display the desired data.
+2.  Click on the "Submit Video" ____ field.
+
+3.  Paste the video you would like to submit for approval. 
+
+4.  Click the "Submit" _____ Button.
+
+5.  Await administrator approval
+
+6.  Refesh the page after your video has been approved. 
+   
+
+To View a Video:
+
+1.  Navigate to the "Life Performances" page by clicking the _____ button located near the left of the "Navigation Bar" _____ .
+
+2.  Hover over any "Video" _____ that you would like to view and press the "Play" button _____ .
+
+3.  You may manipulate playback features such as "Closed Captions" ____ through the "Youtube Bar" ____ located at the bottom the video.
+
+4.  You may navigate through the video with the "Red Bar" ____ at the top of the "Youtube Bar" _____ .
+
+5.  Click the "Pause" _____ button to stop playback. 
+
     
 
