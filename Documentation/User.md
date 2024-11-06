@@ -1,9 +1,8 @@
-Live To Rock
+# Live To Rock
 Website User Manual
 
 ----------
 
-# Home
 
 ## Navigation
 
@@ -17,7 +16,8 @@ How-To:
 3.  To navigate within pages, you may use the "Scroll Bar" _____ located on the right.
     
 
-  
+----------
+
 
 ## To Create an Account
 
@@ -43,7 +43,8 @@ To Create an Account:
 
 6.  Click "Register" _____ to finish creating your registered account. 
 
-  
+----------
+
 
 ## To Submit a Youtube Video
  
