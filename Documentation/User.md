@@ -67,13 +67,13 @@ To Submit a Video:
 
 1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
     
-2.  Click on the "Submit Video" field.
+2.  Click on the "Youtube Url" <img src="/Documentation/ManualPics/YoutubeUrlField.png" width="50"> field.
 
 3.  Paste the video you would like to submit for approval. 
 
-4.  Click the "Submit" Button.
+4.  Click the "Submit" <img src="/Documentation/ManualPics/SubmitButton.png" width="50"> Button.
 
-5.  Await administrator approval
+5.  Await administrator approval.
 
 6.  Refesh the page after your video has been approved. 
    
