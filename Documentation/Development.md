@@ -1,4 +1,4 @@
-# Replicating Develope Environment
+# Replicating Developer Environment
 ## Getting access to the WordPress
 - After obtaining administrator privilege, Log into the [WordPress editor](https://livetorock.org/wp-login.php?redirect_to=https%3A%2F%2Flivetorock.org%2Fwp-admin%2Fadmin.php%3Fpage%3Dbluehost&reauth=1).
     - This should be able to be accessed through any browser.
@@ -44,3 +44,5 @@
 - Now go to your local website and go to the plugin tab.
 
 - Activate the plugin that you just added.
+
+- Implement plugin features as needed, for example: in Life Performance, you need to add a "shortcode" to the page.
