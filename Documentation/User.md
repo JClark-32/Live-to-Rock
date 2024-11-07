@@ -11,9 +11,9 @@ How-To:
 
 1.  To return to the "Home Page" at any time, click the "Home" <img src="/Documentation/ManualPics/Home.png" width="50"> button at the top left of the screen.
     
-2.  To traverse to other pages, click the name of the desired destination within the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700">
+2.  To traverse to other pages, click the name of the desired destination within the "Navigation Bar". <img src="/Documentation/ManualPics/Navigation.png" width="700">
     
-3.  To navigate within pages, you may use the "Scroll Bar" located on the right. <img src="/Documentation/ManualPics/ScrollBar.png" width="25">
+3.  To navigate within pages, you may use the "Scroll Bar" located on the right. <img src="/Documentation/ManualPics/ScrollBar.png" width="20">
 
 
     
@@ -65,13 +65,13 @@ Summary: This page allows visitors to submit
 
 To Submit a Video:
 
-1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> . 
+1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
     
-2.  Click on the "Submit Video" IMAGEHERE field.
+2.  Click on the "Submit Video" field.
 
 3.  Paste the video you would like to submit for approval. 
 
-4.  Click the "Submit" IMAGEHERE Button.
+4.  Click the "Submit" Button.
 
 5.  Await administrator approval
 
@@ -80,18 +80,15 @@ To Submit a Video:
 
 To View a Video:
 
-1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> .
+1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
 
-2.  Hover over any "Video" <img src="/Documentation/ManualPics/Video.png" width="200"> that you would like to view and press the "Play" button <img src="/Documentation/ManualPics/PlayButton.png" width="100"> .
+2.  Hover over any "Video" <img src="/Documentation/ManualPics/Video.png" width="200"> that you would like to view and press the "Play" button <img src="/Documentation/ManualPics/PlayButton.png" width="50">.
 
-3.  You may manipulate playback features such as "Closed Captions" <img src="/Documentation/ManualPics/ClosedCaptionsButton.png" width="100"> through the "Youtube Bar" <img src="/Documentation/ManualPics/YoutubeBar.png" width="700"> located at the bottom the video.
+3.  You may manipulate playback features such as "Closed Captions" <img src="/Documentation/ManualPics/ClosedCaptionsButton.png" width="40"> through the "Youtube Bar" located at the bottom the video. <img src="/Documentation/ManualPics/YoutubeBar.png" width="400">
 
 4.  You may navigate through the video with the "Red Bar"
-   <img src="/Documentation/ManualPics/RedBar.png" width="700">
-    at the top of the "Youtube Bar"
-    <img src="/Documentation/ManualPics/YoutubeBar.png" width="700"> .
+   <img src="/Documentation/ManualPics/RedBar.png" width="400">
+    at the top of the "Youtube Bar".
+    <img src="/Documentation/ManualPics/YoutubeBar.png" width="400">
 
-6.  Click the "Pause" <img src="/Documentation/ManualPics/Pause.png" width="50"> button to stop playback. 
-
-    
-
+6.  Click the "Pause" <img src="/Documentation/ManualPics/Pause.png" width="20"> button to stop playback.
