@@ -56,9 +56,10 @@
 - For simplicity, we're gonna be using [Docker Desktop](https://www.docker.com/products/docker-desktop/).
     - We are currently using, Docker version 27.3.1.
 
-- After installing, you'll want to clone the repository using `git clone -placeholder-` in Git Bash.
+- After installing, you'll want to clone the repository using `git clone https://github.com/JClark-32/Live-to-Rock-Source-Code.git` in Git Bash.
 
 - Now that it's cloned, locate the `docker-compose.yml` (this might say .yaml, there is no notable difference). 
+    - Make a new folder where you want to store the project and open the folder in VSCode.
     - Run this file in VSCode using the terminal and calling, `docker-compose.yml up -d`.
     - As this loads, you'll begin to see files populate on the side of the screen.
 
