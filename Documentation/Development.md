@@ -78,9 +78,3 @@
         - Inside here, you'll want to paste the `LifePerformancesPlugin` folder so it gets added to the website.
 
     - Second, on the website itself, you'll go to the plugin section and press the "Add New Plugin" then upload the `LifePerformancesPlugin` folder in a zip file.
-
-## Testing
-- In addition to cloning the repository and getting the files, you should see a folder called, `tests`.
-
-- This folder, as the name suggests, is where our php tests are stored. 
-    - As you work on the project, you will need to add tests to this file and make sure that code coverage is at least 80%.
