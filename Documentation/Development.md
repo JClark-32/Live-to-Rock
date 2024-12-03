@@ -78,3 +78,35 @@
         - Inside here, you'll want to paste the `LifePerformancesPlugin` folder so it gets added to the website.
 
     - Second, on the website itself, you'll go to the plugin section and press the "Add New Plugin" then upload the `LifePerformancesPlugin` folder in a zip file.
+ 
+# Composer Install
+
+## Setting Up The Testing Repository
+
+- Create a workspace.
+
+- Start by cloning the testing repository using `git clone -b creatingtests --single-branch https://github.com/JClark-32/Live-to-Rock-Source-Code.git` in Git Bash.
+
+## Download
+
+- To install locally, go to https://getcomposer.org/download/ and follow Command-line Installation instructions to run the provided script in the local terminal.
+
+- Once Complete, add composer to system path variables. 
+    - Open the Control Panel.
+    - Click System and Security, then System.
+    - Click Advanced system settings on the left.
+    - Inside the System Properties window, click the Environment Variables button.
+    - Click Edit and ensure \Composer\vendor\bin is placed inside.
+    - You may need to restart your system now.
+ 
+- Now, run `composer install` in the terminal to load composer into the project.
+
+- Add the vendor folder to the `.gitignore` file with "/vendor". Create a `.gitignore` file if nessacary.
+
+- Run `composer require --dev phpunit/phpunit` to complete installation
+
+## Running the tests
+
+- After installation, run `./vendor/bin/phpunit` to test.
+
+
