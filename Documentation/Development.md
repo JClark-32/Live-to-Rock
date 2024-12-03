@@ -81,11 +81,11 @@
  
 # Composer Install
 
-## Setting Up The Testing Repository
+## Setting Up Testing 
 
 - Create a workspace.
 
-- Start by cloning the testing repository using `git clone -b creatingtests --single-branch https://github.com/JClark-32/Live-to-Rock-Source-Code.git` in Git Bash.
+- Start by cloning the repository using `git clone https://github.com/JClark-32/Live-to-Rock-Source-Code.git` in Git Bash.
 
 ## Download
 
