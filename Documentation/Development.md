@@ -70,11 +70,17 @@
 
 ## Adding the Plugin
 - You'll want to clone the github using `git clone https://github.com/JClark-32/Live-to-Rock-Source-Code.git` in Git Bash.
-    - Then locate the LifePerformancesPlugin folder.
+    - Then locate the folder for the plugin you're adding for example `LifePerformancesPlugin`.
     - Take the plugin file and copy it onto your clipboard.
 
 - There are 2 ways to add the plugin.
     - First, inside VSCode there is a folder that was created called `wp-content` and inside that is another folder called `plugins`.
-        - Inside here, you'll want to move the LifePerformancesPlugin folder so it gets added to the website.
+        - Inside here, you'll want to paste the `LifePerformancesPlugin` folder so it gets added to the website.
 
-    - Second, on the website itself, you'll go to the plugin section and press the "Add New Plugin" then upload the LifePerformancesPlugin folder in a zip file.
+    - Second, on the website itself, you'll go to the plugin section and press the "Add New Plugin" then upload the `LifePerformancesPlugin` folder in a zip file.
+
+## Testing
+- In addition to cloning the repository and getting the files, you should see a folder called, `tests`.
+
+- This folder, as the name suggests, is where our php tests are stored. 
+    - As you work on the project, you will need to add tests to this file and make sure that code coverage is at least 80%.

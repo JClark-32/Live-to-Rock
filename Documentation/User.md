@@ -92,3 +92,31 @@ To View a Video:
     <img src="/Documentation/ManualPics/YoutubeBar.png" width="400">
 
 6.  Click the "Pause" <img src="/Documentation/ManualPics/Pause.png" width="20"> button to stop playback.
+
+----------
+
+## To Blog
+### Jam Session:
+
+Summary:
+- Submission: This page is where users can post blogs talking about anything from life updates to their next song!
+
+- Viewing: Anyone and everyone on the website will be able to view these blogs!
+
+To Submit a Blog:
+1. Make sure you are logged into your LiveToRock account.
+
+2. Then navigate to the Jam Session tab. <img src="/Documentation/ManualPics/JamSessTab.png">
+
+3. Here you should see a section called "Post a New Blog?" <img src="/Documentation/ManualPics/blogss.png">
+
+4. First, you'll want to enter the title of your post! <img src="/Documentation/ManualPics/title.png">
+
+5. Second, enter whatever your blog post is about! <img src="/Documentation/ManualPics/text.png">
+
+6. Post it!! <img src="/Documentation/ManualPics/post.png">
+
+To View a Blog:
+1. Navigate to the Jam Session tab. <img src="/Documentation/ManualPics/JamSessTab.png">
+
+2. Then scroll down and start viewing the posts! <img src="/Documentation/ManualPics/blogs.png">
