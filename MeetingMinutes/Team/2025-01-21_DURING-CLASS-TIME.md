@@ -2,11 +2,13 @@
 
 ## Meeting Start Time
 
-2025/01/21/9:30
+2025/01/21/9:30 - Jacob, Cass, Traigh
+2025/01/21/11:00 - KC
 
 ## Meeting End Time
 
-2025/01/21/10:45
+2025/01/21/10:45 - Jacob, Cass, Traigh
+2025/01/21/12:15 - KC
 
 ## Location/Medium
 
@@ -14,7 +16,7 @@ Discord/online
 
 ## Present
 
-Traigh, Jacob, Cass
+Traigh, Jacob, Cass, KC
 
 ## Minute Recorder
 
