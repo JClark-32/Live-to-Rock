@@ -116,7 +116,17 @@ To Submit a Blog:
 
 6. Post it!! <img src="/Documentation/ManualPics/post.png">
 
-To View a Blog:
+### To View a Blog:
 1. Navigate to the Jam Session tab. <img src="/Documentation/ManualPics/JamSessTab.png">
 
 2. Then scroll down and start viewing the posts! <img src="/Documentation/ManualPics/blogs.png">
+
+### Commenting and liking a Blog:
+1. Navagate to a blog while logged in (see above). <img src="/Documentation/ManualPics/BlogPostWithComments.png">
+
+2. To Like, Click the like button.
+
+3. To Comment, Click the comments button, this will open an entry box. Once your message is typed in that box, press the enter key to submit it <br/>
+   <img src="/Documentation/ManualPics/Comment.png">
+
+5. To view comments, click the aformentioned comments button. This will drop-down the comments associated with that blog post
