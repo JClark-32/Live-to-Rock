@@ -93,6 +93,22 @@ To View a Video:
 
 6.  Click the "Pause" <img src="/Documentation/ManualPics/Pause.png" width="20"> button to stop playback.
 
+To Approve a video (Admin):
+
+1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
+
+2. Hover over the "Approve" <img src="/Documentation/ManualPics/approve.png" width="75"> button and click to make the video viewable for users.
+
+3. Alternatively, select the approve button through email when a new video is submitted.
+
+To Delete a video (Admin):
+
+1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
+
+2. Hover over the "Delete" <img src="/Documentation/ManualPics/delete.png" width="75"> button and click to remove both Approved or Unapproved videos.
+
+3. Alternatively, select the delete button through email when a new video is submitted.
+
 ----------
 
 ## To Blog
