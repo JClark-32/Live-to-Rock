@@ -89,24 +89,13 @@
 
 ## Download
 
-- To install locally, go to https://getcomposer.org/download/ and follow Command-line Installation instructions to run the provided script in the local terminal.
+- Install the JetBrains IDE [PHPStorm](https://www.jetbrains.com/phpstorm/).
 
-- Once Complete, add composer to system path variables. 
-    - Open the Control Panel.
-    - Click System and Security, then System.
-    - Click Advanced system settings on the left.
-    - Inside the System Properties window, click the Environment Variables button.
-    - Click Edit and ensure \Composer\vendor\bin is placed inside.
-    - You may need to restart your system now.
- 
-- Now, run `composer install` in the terminal to load composer into the project.
+- Create a new project and use the files from the cloned repository to populate the workspace.
 
-- Add the vendor folder to the `.gitignore` file with "/vendor". Create a `.gitignore` file if nessacary.
+- Once the files are moved into the project and the existing `composer.json / composer.lock` files are present, you can go up to `Tools > Composer > Install` for it to run the composer installation.
+    - For any files that are missing or not downloaded, run again with `--update-with-dependencies`.
 
-- Run `composer require --dev phpunit/phpunit` to complete installation
+- You'll also need to locate the `docker-compose.yaml` in the `Docker` folder and run the compose file to populate a docker container and such.
 
-## Running the tests
-
-- After installation, run `./vendor/bin/phpunit` to test.
-
-
+- Next, you'll need to download [XDebug](https://xdebug.org/download) run through the installation instructions [here](https://xdebug.org/docs/install#windows).
