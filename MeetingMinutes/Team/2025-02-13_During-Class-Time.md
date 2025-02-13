@@ -4,11 +4,13 @@
 
 2025/02/13/9:30 - Jacob, Traigh
 2025/02/13/11:00 - KC
+2025/02/13/12:00 - Cass
 
 ## Meeting End Time
 
 2025/02/13/10:45 - Jacob, Traigh
 2025/02/13/12:15 - KC
+2025/02/13/14:30 - Cass
 
 ## Location/Medium
 
@@ -20,7 +22,7 @@ Traigh, Jacob, KC
 
 ## Minute Recorder
 
-Traigh
+Traigh, Kc, Cass
 
 ## Topics Discussed
 
