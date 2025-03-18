@@ -101,3 +101,47 @@
 - `vendor/bin/phpunit.\tests\Unit\JamSessionTests\` to run the JamSession plugin tests.
 
 - If you want to run specific tests, example: `vendor/bin/phpunit .\tests\Unit\LifePerformancesTests\SendEmailToAdminTest.php`.
+
+## Setting up Code Coverage
+
+- Open command prompt
+
+- Enter `php -i`
+
+- Copy all of that (it's A LOT, sorry)
+
+- Go to [xdebug](https://xdebug.org/wizard)
+
+- Paste that shit into the box and click the analyze button
+
+- Download the `php_xdebug-3.4.2-8.3-ts-vs16-x86_64.dll` provided to you on the next page
+
+- Move the downloaded file to ext, and rename it to `php_xdebug.dll`
+
+- Cut that file and go to wherever your PHP install is (mine is right under C: as php.(whatever version, mine's 8. something))
+
+- Go to the ext subfolder
+
+- Paste that renamed file in there
+
+- Open `C:\php-8.3.13[or whatever ur version is]\php.ini`  in something like Notepad++
+
+- `Ctrl+f then zend_ext` until you find `;zend_extension = something`
+
+- Replace that with the following:
+- [Xdebug]
+- `zend_extension="C:\path\to\php\ext\xdebug.dll"`
+- `xdebug.mode=coverage,debug`
+- `xdebug.start_with_request=yes`
+
+- Save!
+
+- Restart Docker
+
+- Run `php -v` in the cmd and make sure it pops up with an xdebug version
+
+- Make sure you have the latest version from development
+
+- Run `vendor/bin/phpunit .\tests\Unit\ --coverage-text` in the project
+
+- Yay! You (should have) done it
