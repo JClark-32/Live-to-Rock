@@ -87,15 +87,17 @@
 
 - Start by cloning the repository using `git clone https://github.com/JClark-32/Live-to-Rock-Source-Code.git` in Git Bash.
 
-## Download
+## Install Composer and Set Up PHPUnit
 
-- Install the JetBrains IDE [PHPStorm](https://www.jetbrains.com/phpstorm/).
+- Install [Composer 2.8.6](https://getcomposer.org/download/) here.
 
-- Create a new project and use the files from the cloned repository to populate the workspace.
+- Install PHPUnit 11.4 using Composer in the command line via `composer require --dev phpunit/phpunit`
+    - If any errors occur, try `composer dump-autoload`
 
-- Once the files are moved into the project and the existing `composer.json / composer.lock` files are present, you can go up to `Tools > Composer > Install` for it to run the composer installation.
-    - For any files that are missing or not downloaded, run again with `--update-with-dependencies`.
+- Then to run the tests, use the command `vendor/bin/phpunit.\tests\Unit\` to run all tests.
 
-- You'll also need to locate the `docker-compose.yaml` in the `Docker` folder and run the compose file to populate a docker container and such.
+- `vendor/bin/phpunit.\tests\Unit\LifePerformancesTests\` to run the LifePerformance plugin tests.
 
-- Next, you'll need to download [XDebug](https://xdebug.org/download) run through the installation instructions [here](https://xdebug.org/docs/install#windows).
+- `vendor/bin/phpunit.\tests\Unit\JamSessionTests\` to run the JamSession plugin tests.
+
+- If you want to run specific tests, example: `vendor/bin/phpunit .\tests\Unit\LifePerformancesTests\SendEmailToAdminTest.php`.
