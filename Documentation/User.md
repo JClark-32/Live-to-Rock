@@ -105,7 +105,7 @@ To Delete a video (Admin):
 
 1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
 
-2. Hover over the "Delete" <img src="/Documentation/ManualPics/delete.png" width="75"> button and click to remove both Approved or Unapproved videos.
+2. Hover over the "Delete" <img src="/Documentation/ManualPics/DeleteButton.png" width="75"> button and click to remove both Approved or Unapproved videos.
 
 3. Alternatively, select the delete button through email when a new video is submitted.
 
@@ -124,25 +124,47 @@ To Submit a Blog:
 
 2. Then navigate to the Jam Session tab. <img src="/Documentation/ManualPics/JamSessTab.png">
 
-3. Here you should see a section called "Post a New Blog?" <img src="/Documentation/ManualPics/blogss.png">
+3. Here you should see a section called "Post a New Blog?" <img src="/Documentation/ManualPics/PostANewBLog.png">
 
-4. First, you'll want to enter the title of your post! <img src="/Documentation/ManualPics/title.png">
+4. First, you'll want to enter the title of your post! <br/>
+<img src="/Documentation/ManualPics/EnterTitle.png">
 
-5. Second, enter whatever your blog post is about! <img src="/Documentation/ManualPics/text.png">
+5. Second, enter the name of the author! <img src="/Documentation/ManualPics/EnterAuthors.png">
 
-6. Post it!! <img src="/Documentation/ManualPics/post.png">
+6. Third, attatch any relevant media! <img src="/Documentation/ManualPics/AddMedia.png">
+
+7. Fourth, enter whatever your blog post is about in the entry box! <img src="/Documentation/ManualPics/text.png">
+
+8. Post it!! <br/>
+<img src="/Documentation/ManualPics/Post.png">
 
 ### To View a Blog:
 1. Navigate to the Jam Session tab. <img src="/Documentation/ManualPics/JamSessTab.png">
 
-2. Then scroll down and start viewing the posts! <img src="/Documentation/ManualPics/blogs.png">
+2. Then scroll down and start viewing the posts! <img src="/Documentation/ManualPics/ViewBlog.png">
 
 ### Commenting and liking a Blog:
-1. Navagate to a blog while logged in (see above). <img src="/Documentation/ManualPics/BlogPostWithComments.png">
+1. Navagate to a blog while logged in (see above). <img src="/Documentation/ManualPics/LikeUnclicked.png">
 
-2. To Like, Click the like button.
+2. To Like, Click the like button. <img src="/Documentation/ManualPics/LikeClicked.png">
 
-3. To Comment, Click the comments button, this will open an entry box. Once your message is typed in that box, press the enter key to submit it <br/>
-   <img src="/Documentation/ManualPics/Comment.png">
+3. To Comment, Click the comments button, this will open an entry box. Once your message is typed in that box, press the enter key to submit it. <br/>
+   <img src="/Documentation/ManualPics/EntryBox.png">
 
-5. To view comments, click the aformentioned comments button. This will drop-down the comments associated with that blog post
+5. To view comments, click the aformentioned comments button. This will drop-down the comments associated with that blog post <img src="/Documentation/ManualPics/ViewComments.png">
+
+----------
+
+## To Submit a Calendar Reservation
+
+1. Navigate to the Tour Schedule tab. <img src="/Documentation/ManualPics/TourSchedule.png">
+
+2. Select the date you would like to request on the calendar. <img src="/Documentation/ManualPics/Calendar.png">
+
+3. To the right, you can now choose an available time slow. <img src="/Documentation/ManualPics/TimeSlots.png">
+
+4. Enter remaining information below. <br/>
+<img src="/Documentation/ManualPics/CalendarInformation.png">
+
+5. Send the request! <br/>
+<img src="/Documentation/ManualPics/Send.png">
