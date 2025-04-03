@@ -6,7 +6,7 @@
 
 ## Meeting End Time
 
-2025/04/03/10: - Jacob, Traigh, Cassidy
+2025/04/03/10:30 - Jacob, Traigh, Cassidy
 
 ## Location/Medium
 
