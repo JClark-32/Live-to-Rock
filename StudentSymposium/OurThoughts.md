@@ -1,0 +1,2 @@
+## Traigh Scott:
+    My experience at the student symposium was very memorable. I was able to look at the other posters at the event outside of the CS projects and the research was very interesting to learn about. It was also easy to present to the people that came to our station, since most of them weren't very experienced in computer coding and how everything worked. Overall, I really enjoyed getting to share our project with others and see how interested in they were in the mission of LiveToRock. 
