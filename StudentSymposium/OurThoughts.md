@@ -3,3 +3,6 @@
 
 ## Jacob Clark:
     My experience at the symposium was good. I was there for the first hour before I had to go to class so I didn't get the full symposium experience as it wasn't very busy to start out. I did end up coming back during the finishing cerimonies and speeches and it was cool to hear about the other projects around the university. For the time I was there it was cool to be able to show off our hard work and see how people react to it. 
+
+## Cassidy Alcorn:
+    My experience at the student symposium was neat, and even though I was only there for the last hour, it was nice to be able to talk to and explain the project to the three people who came up to us. It was nice to see people connect to the mission of our project and express interest in it as well. I would have liked to have been there for longer, as I would have loved the chance to take a look at other peoples' projects as well.
