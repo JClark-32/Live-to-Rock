@@ -174,6 +174,11 @@ To Submit a Blog:
 
 5. To view comments, click the aformentioned comments button. This will drop-down the comments associated with that blog post <img src="/Documentation/ManualPics/ViewComments.png">
 
+### Requesting a Blog:
+1. Navagate to the bottom of the page to find the blog submission form.
+    <img src="/Documentation/ManualPics/RequestFormBlog.png">
+2. Fill out the form and press submit to send an email for submission review.
+
 ----------
 
 ## To View Podcasts
@@ -225,6 +230,11 @@ To Submit a Blog:
 3. Click on this event to view the details.
 <img src="/Documentation/ManualPics/eventdetails.png">
 
+### Requesting an Event:
+1. Navagate to the bottom of the page to find the calendar event submission form.
+    <img src="/Documentation/ManualPics/RequestFormCalendar.png">
+2. Fill out the form and press submit to send an email for submission review.
+
 ---------
 
 ## View the Merch
@@ -237,3 +247,12 @@ To Submit a Blog:
 
 3. Choose a merch product you'd like to purchase and follow Printful's process of ordering the item(s).
 <img src="/Documentation/ManualPics/merchitem.png">
+
+---------
+
+## Liner Notes Request
+
+### Requesting a Liner note:
+1. Navigate to the bottom of the page to find the Liner Notes submission form.
+    <img src="/Documentation/ManualPics/RequestFormLiner.png">
+2. Fill out the form and press submit to send an email for submission review.
