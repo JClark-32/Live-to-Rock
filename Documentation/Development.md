@@ -112,7 +112,7 @@
 
 - Go to [xdebug](https://xdebug.org/wizard)
 
-- Paste that shit into the box and click the analyze button
+- Paste that into the box and click the analyze button
 
 - Download the `php_xdebug-3.4.2-8.3-ts-vs16-x86_64.dll` provided to you on the next page
 
@@ -145,3 +145,35 @@
 - Run `vendor/bin/phpunit .\tests\Unit\ --coverage-text` in the project
 
 - Yay! You (should have) done it
+
+# Getting and Setting New Youtube API Key
+## Log Into the Google API Developer Console
+
+- Go to [The Google API Devloper Console](https://console.cloud.google.com/apis/dashboard)
+- Sign into the account you want the API key on
+- Select the Back Stage Pass Plugin Project, If it doesn't exist press create project and create one with that name
+
+## Enable the YouTube Data API V3
+
+- On the left hand side navigation bar select APIs & Services
+- On the left hand side of that page select the Enabled APIs & Services tab
+- On the top bar there is a button labeled +Enable APIs and services, click that
+- Search for YouTube Data API v3, select the result, and then press enable
+
+## Create the API Key and Restrict it
+
+- Go back to the APIs & Services page
+- Select the credentials tab
+- On the top bar, select create credentials
+- Select API key
+- You will now see an API key 1 under the API Keys section
+- Press the 3 buttons under actions and select Edit API key
+- Under API restrictions select restrict key
+- In the drop down box select YouTube Data API v3 and press ok
+- Save the settings
+
+## Utilize the new API Key
+
+- Press the Show Key button and copy the API Key
+- Insert this into line 63 of BackStagePassPlugin.php making sure to replace the old API key
+
