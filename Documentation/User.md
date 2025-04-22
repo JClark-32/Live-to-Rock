@@ -254,5 +254,6 @@ To Submit a Blog:
 
 ### Requesting a Liner note:
 1. Navigate to the bottom of the page to find the Liner Notes submission form.
+
     <img src="/Documentation/ManualPics/RequestFormLiner.png">
 2. Fill out the form and press submit to send an email for submission review.
