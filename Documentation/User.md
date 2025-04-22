@@ -9,7 +9,8 @@ Website User Manual
 How-To:
 
 
-1.  To return to the "Home Page" at any time, click the "Home" <img src="/Documentation/ManualPics/Home.png" width="50"> button at the top left of the screen.
+1.  To return to the "Home Page" at any time, click the "Home" button at the top left of the screen.
+<img src="/Documentation/ManualPics/Home.png" width="50">
     
 2.  To traverse to other pages, click the name of the desired destination within the "Navigation Bar". <img src="/Documentation/ManualPics/Navigation.png" width="700">
     
@@ -33,21 +34,29 @@ Summary: This page allows visitors of the site to create an account that they ca
 
 To Create an Account:
 
-1.  Navigate to the "Plug In" page by clicking the <img src="/Documentation/ManualPics/Plug In.png" width="50"> button located at the right of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> . 
+1.  Navigate to the "Plug In" page by clicking the button located at the right of the "Navigation Bar".
+<img src="/Documentation/ManualPics/Plug In.png" width="50"> <img src="/Documentation/ManualPics/Navigation.png" width="700">
     
-2.  Enter your first name in the "First Name" field <img src="/Documentation/ManualPics/FirstNameField.png" width="300">
+2.  Enter your first name in the "First Name" field 
+<img src="/Documentation/ManualPics/FirstNameField.png" width="300">
 
-3.  Enter last name in the "Last Name" field <img src="/Documentation/ManualPics/LastNameField.png" width="300"> .
+3.  Enter last name in the "Last Name" field. 
+<img src="/Documentation/ManualPics/LastNameField.png" width="300">
 
-4.  Enter your email in the "User Email" field <img src="/Documentation/ManualPics/UserEmail.png" width="300">
+4.  Enter your email in the "User Email" field 
+<img src="/Documentation/ManualPics/UserEmail.png" width="300">
 
-5.  Enter your chosen password in the "User Password" field <img src="/Documentation/ManualPics/UserPasswordField.png" width="300"> .
+5.  Enter your chosen password in the "User Password" field.
+<img src="/Documentation/ManualPics/UserPasswordField.png" width="300">
 
-4.  Decide on a display name and enter it into the "Display Name" <img src="/Documentation/ManualPics/DisplayName.png" width="300"> field.
+4.  Decide on a display name and enter it into the "Display Name" field. 
+<img src="/Documentation/ManualPics/DisplayName.png" width="300">
 
-5.  Complete the "CAPTCHA" <img src="/Documentation/ManualPics/Captcha.png" width="200"> by ticking the box <img src="/Documentation/ManualPics/captchaboxtick.png" width="30"> on the left.
+5.  Complete the "CAPTCHA" by ticking the box  on the left.
+<img src="/Documentation/ManualPics/Captcha.png" width="200"> <img src="/Documentation/ManualPics/captchaboxtick.png" width="30">
 
-6.  Click "Register" <img src="/Documentation/ManualPics/RegisterButton.png" width="50"> to finish creating your registered account. 
+6.  Click "Register" to finish creating your registered account.
+<img src="/Documentation/ManualPics/RegisterButton.png" width="50">
 
 ----------
 
@@ -65,13 +74,16 @@ Summary: This page allows visitors to submit
 
 To Submit a Video:
 
-1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
+1.  Navigate to the "Life Performances" page by clicking the button located near the left of the "Navigation Bar"
+<img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
     
-2.  Click on the "Youtube Url" <img src="/Documentation/ManualPics/YoutubeUrlField.PNG" width="150"> field.
+2.  Click on the "Youtube Url" field.
+<img src="/Documentation/ManualPics/YoutubeUrlField.PNG" width="150">
 
 3.  Paste the video you would like to submit for approval. 
 
-4.  Click the "Submit" <img src="/Documentation/ManualPics/SubmitButton.PNG" width="75"> Button.
+4.  Click the "Submit" Button.
+<img src="/Documentation/ManualPics/SubmitButton.PNG" width="75">
 
 5.  Await administrator approval.
 
@@ -80,32 +92,38 @@ To Submit a Video:
 
 To View a Video:
 
-1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
+1.  Navigate to the "Life Performances" page by clicking the button located near the left of the "Navigation Bar".
+<img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
 
-2.  Hover over any "Video" <img src="/Documentation/ManualPics/Video.png" width="200"> that you would like to view and press the "Play" button <img src="/Documentation/ManualPics/PlayButton.png" width="50">.
+2.  Hover over any "Video"  that you would like to view and press the "Play" button.
+<img src="/Documentation/ManualPics/Video.png" width="200"> <img src="/Documentation/ManualPics/PlayButton.png" width="50">
 
-3.  You may manipulate playback features such as "Closed Captions" <img src="/Documentation/ManualPics/ClosedCaptionsButton.png" width="40"> through the "Youtube Bar" located at the bottom the video. <img src="/Documentation/ManualPics/YoutubeBar.png" width="400">
+3.  You may manipulate playback features such as "Closed Captions" through the "Youtube Bar" located at the bottom the video. 
+<img src="/Documentation/ManualPics/ClosedCaptionsButton.png" width="40"> <img src="/Documentation/ManualPics/YoutubeBar.png" width="400">
 
-4.  You may navigate through the video with the "Red Bar"
-   <img src="/Documentation/ManualPics/RedBar.png" width="400">
-    at the top of the "Youtube Bar".
-    <img src="/Documentation/ManualPics/YoutubeBar.png" width="400">
+4.  You may navigate through the video with the "Red Bar" at the top of the "Youtube Bar".
+<img src="/Documentation/ManualPics/RedBar.png" width="400"> <img src="/Documentation/ManualPics/YoutubeBar.png" width="400">
 
-6.  Click the "Pause" <img src="/Documentation/ManualPics/Pause.png" width="20"> button to stop playback.
+6.  Click the "Pause" button to stop playback.
+<img src="/Documentation/ManualPics/Pause.png" width="20">
 
 To Approve a video (Admin):
 
-1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
+1.  Navigate to the "Life Performances" page by clicking the button located near the left of the "Navigation Bar" 
+<img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
 
-2. Hover over the "Approve" <img src="/Documentation/ManualPics/approve.png" width="75"> button and click to make the video viewable for users.
+2. Hover over the "Approve" button and click to make the video viewable for users.
+<img src="/Documentation/ManualPics/approve.png" width="75">
 
 3. Alternatively, select the approve button through email when a new video is submitted.
 
 To Delete a video (Admin):
 
-1.  Navigate to the "Life Performances" page by clicking the <img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> button located near the left of the "Navigation Bar" <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
+1.  Navigate to the "Life Performances" page by clicking the button located near the left of the "Navigation Bar" 
+<img src="/Documentation/ManualPics/LifePerformancesTab.png" width="100"> <img src="/Documentation/ManualPics/Navigation.png" width="700"> 
 
-2. Hover over the "Delete" <img src="/Documentation/ManualPics/DeleteButton.png" width="75"> button and click to remove both Approved or Unapproved videos.
+2. Hover over the "Delete" button and click to remove both Approved or Unapproved videos.
+<img src="/Documentation/ManualPics/DeleteButton.png" width="75"> 
 
 3. Alternatively, select the delete button through email when a new video is submitted.
 
@@ -143,6 +161,9 @@ To Submit a Blog:
 
 2. Then scroll down and start viewing the posts! <img src="/Documentation/ManualPics/ViewBlog.png">
 
+3. Alternatively, you can select a blog that interests you via the index at the top of the page.
+<img src="/Documentation/ManualPics/index.png">
+
 ### Commenting and liking a Blog:
 1. Navagate to a blog while logged in (see above). <img src="/Documentation/ManualPics/LikeUnclicked.png">
 
@@ -155,16 +176,35 @@ To Submit a Blog:
 
 ----------
 
-## To Submit a Calendar Reservation
+## To View Podcasts
+
+1. Navigate to the 'BackStage Pass' page
+<img src="/Documentation/ManualPics/backstagepass.png">
+
+2. Select the podcast you'd like to view and press play!
+<img src="/Documentation/ManualPics/pressplay.png">
+
+----------
+
+## To View the Calendar
 
 1. Navigate to the Tour Schedule tab. <img src="/Documentation/ManualPics/TourSchedule.png">
 
-2. Select the date you would like to request on the calendar. <img src="/Documentation/ManualPics/Calendar.png">
+2. Find an event on the Calendar you've taken interest in.
+<img src="/Documentation/ManualPics/event.png">
 
-3. To the right, you can now choose an available time slow. <img src="/Documentation/ManualPics/TimeSlots.png">
+3. Click on this event to view the details.
+<img src="/Documentation/ManualPics/eventdetails.png">
 
-4. Enter remaining information below. <br/>
-<img src="/Documentation/ManualPics/CalendarInformation.png">
+---------
 
-5. Send the request! <br/>
-<img src="/Documentation/ManualPics/Send.png">
+## View the Merch
+
+1. Navitgate to the 'Band Merch' page.
+<img src="/Documentation/ManualPics/bandmerch.png">
+
+2. Find the link that leads to the merch page.
+<img src="/Documentation/ManualPics/merchlink.png">
+
+3. Choose a merch product you'd like to purchase and follow Printful's process of ordering the item(s).
+<img src="/Documentation/ManualPics/merchitem.png">
