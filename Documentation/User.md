@@ -186,6 +186,35 @@ To Submit a Blog:
 
 ----------
 
+## To add videos to playlist
+
+1. After a video has been uploaded it can be added to a playlist that the plugin can read in two way
+
+2a. The first way is to click on the video in youtube studio to bring up its video details page.
+
+3a. This can now be added to a playlist via the playlist tab
+
+<img src="/Documentation/ManualPics/VideoDetails.PNG">
+
+2b. The second method is to go to the video itself
+
+3b. Press the save button, and select the playlist
+
+<img src="/Documentation/ManualPics/SaveButton.PNG">
+
+----------
+
+## Set Podcast Playlist
+
+1. On the WP_Admin page select the back stage pass tab
+
+<img src="/Documentation/ManualPics/BackStagePassButton.PNG">
+
+2. Enter the playlist in the entry box and press the button
+
+<img src="/Documentation/ManualPics/BackStagePassEntry.PNG">
+
+----------
 ## To View the Calendar
 
 1. Navigate to the Tour Schedule tab. <img src="/Documentation/ManualPics/TourSchedule.png">
