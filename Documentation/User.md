@@ -165,7 +165,7 @@ To Submit a Blog:
 <img src="/Documentation/ManualPics/index.png">
 
 ### Commenting and liking a Blog:
-1. Navagate to a blog while logged in (see above). <img src="/Documentation/ManualPics/LikeUnclicked.png">
+1. Navigate to a blog while logged in (see above). <img src="/Documentation/ManualPics/LikeUnclicked.png">
 
 2. To Like, Click the like button. <img src="/Documentation/ManualPics/LikeClicked.png">
 
@@ -231,7 +231,7 @@ To Submit a Blog:
 <img src="/Documentation/ManualPics/eventdetails.png">
 
 ### Requesting an Event:
-1. Navagate to the bottom of the page to find the calendar event submission form.
+1. Navigate to the bottom of the page to find the calendar event submission form.
     <img src="/Documentation/ManualPics/RequestFormCalendar.png">
 2. Fill out the form and press submit to send an email for submission review.
 
