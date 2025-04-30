@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+Live to Rock is a non-profit organization that's mission is to foster a community for the musically inclined chronically ill. Our job is to update the website with various functions that will further allow the community to interact with one another and share their stories.
 
 ## **Team Members**
 
@@ -25,11 +25,13 @@ Live to Rock
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- ... any other documents/links you see need
+- [Student Symposium](StudentSymposium)
+- [Presentations](Presentations)
+- [Documentation](Documentation)
+- [Discovery](Discovery)
+- [Design](Design)
 
 ## **Code Repositories**
 
-- [Mobile App - Android](https://www.github.com/WHEREEVER_THE_ANDROID_CODE_IS/)
-- [Php Backend](https://www.github.com/WHEREEVER_THE_PHP_CODE_IS)
-- Others if more.
+- [LtR Source Code](https://github.com/JClark-32/Live-to-Rock-Source-Code)
 
